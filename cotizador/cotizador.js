@@ -69,7 +69,7 @@ document.getElementById('Total').addEventListener('click', function() {
 
     if(numerogrupo8 == 100){
         i8.innerText = "Tipo de entrega: A domicilio $100";
-    }else if(numerogrup8 == 0){
+    }else if(numerogrupo8 == 0){
         i8.innerText = "Tipo de entrega: En sucursal $0";
     }
 
